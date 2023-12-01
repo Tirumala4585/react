@@ -1,0 +1,33 @@
+{
+  "name": "react1",
+  "version": "1.0.0",
+  "description": "installing react",
+  "source": "/src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tirumala4585/react.git"
+  },
+  "keywords": [
+    "klkl"
+  ],
+  "author": "Tirumalarao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tirumala4585/react/issues"
+  },
+  "homepage": "https://github.com/Tirumala4585/react#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":[ "last 10 chrome versions",
+  "lst 2 firefox version"]
+}
